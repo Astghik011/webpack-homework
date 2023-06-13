@@ -1,0 +1,28 @@
+{
+  "name": "webpack-homework",
+  "version": "1.0.0",
+  "description": "single-page app built with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astghik011/webpack-homework.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "vanilla",
+    "js",
+    "webpack",
+    "bundler",
+    "app"
+  ],
+  "author": "Astghik Simonyan, <astghiksimonyan56@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astghik011/webpack-homework/issues"
+  },
+  "homepage": "https://github.com/Astghik011/webpack-homework#readme"
+}
